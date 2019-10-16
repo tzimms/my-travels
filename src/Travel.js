@@ -11,4 +11,3 @@ import React from "react";
    </figure>
  );
 
- export default Travel;
